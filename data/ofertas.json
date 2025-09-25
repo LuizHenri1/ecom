@@ -1,0 +1,37 @@
+[
+  { "id": 1,
+    "nome": "Processador AMD Ryzen 3 5300G",
+    "preco": 409.00,
+    "precoOferta": 350.00,
+    "imagens": [
+      "assets/img/processador-oferta.jpg"
+    ]
+  },
+
+  { "id": 2,
+    "nome": "PlayStation 4",
+    "preco": 2499.99,
+    "precoOferta": 2000.00,
+    "imagens": [
+      "assets/img/console-oferta.jpg"
+    ]
+  },
+
+  { "id": 3,
+    "nome": "Headset Gamer Bright Flame - com Microfone",
+    "preco": 192.11,
+    "precoOferta": 172.90,
+    "imagens": [
+      "assets/img/fone-ofertas.jpg"
+    ]
+  },
+
+  { "id": 4,
+    "nome": "PlayStation 3",
+    "preco": 1400,
+    "precoOferta": 1299,
+    "imagens": [
+      "assets/img/console2-oferta.jpg"
+    ]
+  }
+]
