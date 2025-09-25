@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "nome": "PC GAMER AMD RYZEN 7 5700G",
+    "preco": 2950.00,
+    "categoria": "pc-gamer",
+    "descricao": "PC GAMER AMD RYZEN 7 5700G 16GB 3200MHZ NVME 512GB 600W BIVOLT RADEON VEGA 8",
+    "imagens": [
+      "assets/img/pc1.jpg",
+      "assets/img/pc1-2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Console PlayStation 5",
+    "preco": 4399.90,
+    "categoria": "console",
+    "descricao": "PlayStation 5 com SSD ultra rápido e controle DualSense.",
+    "imagens": [
+      "assets/img/console1.jpg",
+      "assets/img/console1-2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Monitor Gamer 27\" 240Hz",
+    "preco": 2499.50,
+    "categoria": "monitor",
+    "descricao": "Monitor IPS 27 polegadas, 240Hz, tempo de resposta 1ms.",
+    "imagens": [
+      "assets/img/monitor1.png",
+      "assets/img/monitor1-2.png"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Teclado Mecânico RGB",
+    "preco": 399.90,
+    "categoria": "periferico",
+    "descricao": "Teclado mecânico com switches red, retroiluminação RGB.",
+    "imagens": [
+      "assets/img/teclado1.jpg",
+      "assets/img/teclado1-2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Xbox Series x",
+    "preco": 5429.00,
+    "categoria": "console",
+    "descricao": "Console Xbox Series X com um controle",
+    "imagens": [
+      "assets/img/console2.jpg",
+      "assets/img/console2-2.jpg"
+    ]
+  },
+
+  {
+    "id": 6,
+    "nome": "Mouse Gamer com DPI ajustável",
+    "preco": 249.90,
+    "categoria": "periferico",
+    "descricao": "Mouse óptico com 16000 DPI e botões programáveis.",
+    "imagens": [
+      "assets/img/mouse1.jpg",
+      "assets/img/mouse1-2.jpg"
+    ]
+  },
+
+  {
+    "id": 7,
+    "nome": "Processador AMD Ryzen 5 5500",
+    "preco": 549.90,
+    "categoria": "processador",
+    "descricao": "Processador AMD Ryzen 5 5500, 3.6GHz (4.2GHz Max Turbo), Cache 19MB, AM4, Sem Vídeo - 100-100000457BOX",
+    "imagens": [
+      "assets/img/processador1.jpg",
+      "assets/img/processador1-2.png"
+    ]
+  },
+
+  {
+    "id": 8,
+    "nome": "PROCESSADOR INTEL CORE I5-12400F 2.5GHz",
+    "preco": 868.00,
+    "categoria": "processador",
+    "descricao": "PROCESSADOR INTEL CORE I5-12400F 2.5GHz (TURBO 4.4GHz) 18MB CACHE LGA1700 12° GERACAO BX8071512400F",
+    "imagens": [
+      "assets/img/Processador2.jpg",
+      "assets/img/Processador2-2.jpg"
+    ]
+  },
+
+  {
+    "id": 9,
+    "nome": "Controle Dualsense - Midnight Black",
+    "preco": 429.90,
+    "categoria": "acessorio",
+    "descricao": "Controle Dualsense - Midnight Black",
+    "imagens": [
+      "assets/img/controle1.jpg",
+      "assets/img/controle1-2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "TECLADO MECÂNICO GAMER REDRAGON",
+    "preco": 339.99,
+    "categoria": "periferico",
+    "descricao": "TECLADO MECÂNICO GAMER REDRAGON KALA ILUMINAÇÃO RAINBOW PRETO SWITCH Blue.",
+    "imagens": [
+      "assets/img/teclado2.jpg",
+      "assets/img/teclado2-2.jpg"
+    ]
+  },
+
+  {
+    "id": 11,
+    "nome": "SAMSUNG Monitor Gamer Odyssey 25\"",
+    "preco": 1486.74,
+    "categoria": "monitor",
+    "descricao": "SAMSUNG Monitor Gamer Odyssey 25\", FHD, 240 Hz, 1ms, com ajuste de altura, HDMI, DP, Gsync, Freesync, Preto, Série G40",
+    "imagens": [
+      "assets/img/monitor2.jpg",
+      "assets/img/monitor2-2.jpg"
+    ]
+  },
+
+  {
+    "id": 12,
+    "nome": "Controle Sem Fio Xbox",
+    "preco": 249.00,
+    "categoria": "acessorio",
+    "descricao": "Controle Sem Fio Xbox - Shock Blue",
+    "imagens": [
+      "assets/img/controle2.jpg",
+      "assets/img/controle2-2.jpg"
+    ]
+  },
+
+  {
+    "id": 13,
+    "nome": "Mouse Sem Fio Logitech",
+    "preco": 329.90,
+    "categoria": "periferico",
+    "descricao": "Mouse Sem Fio Logitech Lift Vertical com Design Ergonômico para Redução de Tensão Muscular, Cliques Silenciosos, Conexão Bluetooth ou USB Logi Bolt, Compatível com Windows/macOS/iPadOS - Grafite",
+    "imagens": [
+      "assets/img/mouse2.jpg",
+      "assets/img/mouse2-2.jpg"
+    ]
+  },
+
+  {
+    "id": 14,
+    "nome": "Pc Gamer Amd Ryzen 5 5600GT",
+    "preco": 2550.00,
+    "categoria": "pc-gamer",
+    "descricao": "Pc Gamer Amd Ryzen 5 5600GT, Radeon™ Graphics Vega 7, 16gb Ram, Nvme 500gb, Gabinete Rgb 3 fans",
+    "imagens": [
+      "assets/img/pc2.jpg",
+      "assets/img/pc2-2.jpg"
+    ]
+  }
+
+]
